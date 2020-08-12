@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hai.webp.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\hai.webp"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_food.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_travel.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-mdpi\\ic_travel.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_mahasiswa.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\row_mahasiswa.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nim.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_nim.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_splash.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_splash.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_add_16.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\icons8_add_16.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_kelas.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_kelas.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide4.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\welcome_slide4.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_friend.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_friend.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_movie.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xhdpi\\ic_movie.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kelas.jpg.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\kelas.jpg"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_32.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_add_32.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone2.jpg.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\phone2.jpg"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone2.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_phone2.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_discount.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_movie.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-hdpi\\ic_movie.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deskripsi.jpg.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\deskripsi.jpg"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nama.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_nama.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send1.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_send1.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email1.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_email1.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_visit1.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_visit1.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_welcome.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_welcome.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_header.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_header.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_friends.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\friends.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fotoku.jpg.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xhdpi\\ic_fotoku.jpg"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nim.jpg.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\nim.jpg"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_discount.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_friends.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_add_friends.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send2.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_send2.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide2.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_travel.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_travel.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call1.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_call1.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_facebook.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_info.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_menu_info.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_food.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profil_depan.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_profil_depan.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_discount.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-mdpi\\ic_discount.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_travel.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xhdpi\\ic_travel.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide1.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_discount.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_discount.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-hdpi\\ic_discount.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_food.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-hdpi\\ic_food.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nama.jpg.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\nama.jpg"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_visit2.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_visit2.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_mine.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\logo_mine.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_profil.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_menu_profil.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_movie.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_movie.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_telp.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_menu_telp.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_dialog.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone1.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\phone1.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_contact_card.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_contact_card.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide3.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_description.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_menu_description.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_description.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_description.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_info.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call2.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_call2.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_movie.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_movie.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_food.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-mdpi\\ic_food.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_instagram.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_instagram.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_email.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_menu_email.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_socmed.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_menu_socmed.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_food.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xhdpi\\ic_food.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_contact.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_contact.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone1.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_phone1.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_friends_depan.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_friends_depan.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_background.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_background.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_travel.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_travel.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_movie.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-mdpi\\ic_movie.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email2.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable\\ic_email2.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_friends.xml.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\layout\\fragment_menu_friends.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_travel.png.flat",
+        "source": "E:\\Kuliah\\Matkul\\VIII\\Aplikasi Komputasi Bergerak\\Praktek\\Tugas_UTS_AKB_IF-7_10116099_PindoKaradin\\app\\src\\main\\res\\drawable-hdpi\\ic_travel.png"
+    }
+]

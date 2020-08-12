@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MenuDescription">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:gravity="center"
+        android:layout_below="@+id/line2"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical"
+        android:layout_width="310dp"
+        android:layout_height="250dp"
+        >
+
+        <TextView
+            android:textSize="15dp"
+           android:layout_marginTop="70dp"
+            android:layout_width="290dp"
+            android:layout_height="120dp"
+            android:text="Saya kelahiran Bengkulu, 14 januari 1997."
+            />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

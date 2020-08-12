@@ -1,0 +1,4 @@
+#Mon Aug 05 17:05:24 ICT 2019
+base.0=D\:\\ANDROID UAS\\10116129_UTS_AKB-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
